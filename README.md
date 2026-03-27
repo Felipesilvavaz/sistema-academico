@@ -1,4 +1,4 @@
-# Sistema Acadêmico v1.0 - Linha Estável
+# Sistema Acadêmico v1.1 - Módulo Cadastro de Alunos
 
 Projeto desenvolvido para a disciplina de Gerência de Configuração e Controle de Versão — UniFil.
 
