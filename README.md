@@ -1,4 +1,4 @@
-# Sistema Acadêmico
+# Sistema Acadêmico v1.0 - Linha Estável
 
 Projeto desenvolvido para a disciplina de Gerência de Configuração e Controle de Versão — UniFil.
 
